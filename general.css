@@ -1,8 +1,10 @@
 @font-face {
     src: url(Bradley Gratis.ttf);
+    font-family: "Bradley Gratis";
 }
 
 body {
+    font-family: "Bradley Gratis";
     background-color: white;
 }
 
