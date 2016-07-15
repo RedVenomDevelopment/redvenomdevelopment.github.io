@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="general.css">
+		<title>Red Venom Studios</title>
+	</head>
+	<body>
+		<img src="banner.png" alt="Red Venom" style="width: 100%;max-width:2000px;margin:0 auto;">
+		<nav>
+    		<ul>
+        		<li id="notCurrent"><a href="/">Home</a></li>
+	        	<li id="notCurrent"><a href="/games">Games</a>
+	        	<ul class = "subMenu">
+	        		<li id ="notCurrent"><a href="crazyBomber">Crazy Bomber</a></li>
+	        		<li id="current"><a href="runningMan">Running Man</a></li>
+	        	</ul></li>
+        		<li id="notCurrent"><a href="/contact">Contact</a></li>
+        		<li id="notCurrent"><a href="/about">About</a></li>
+    		</ul>
+		</nav>
+		
+		            
+            <a class="twitter-timeline" href="https://twitter.com/RedVenomDev">Tweets by RedVenomDev</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div id="homeStuff">
+          		<a href="madjeff"><img src="http://s9.postimg.org/wtdbzsw0f/TITLEfullwhite.png" alt="Mad Jeff" style="width:100%;max-width:600px;display:inline-block;vertical-align:top;padding:30px;"></a>
+          	 	
+          		<a href="https://play.google.com/store/apps/details?id=com.TryThisAtHome.MadJeff00&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png" style="width:100%;max-width:600px;display:inline-block;vertical-align:top;"/></a>
+
+	</div>
+	</body>
+</html>
