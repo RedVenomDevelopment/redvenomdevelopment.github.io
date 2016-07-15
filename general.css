@@ -1,10 +1,8 @@
 @font-face {
-    font-family: monoid;
     src: url(Bradley Gratis.ttf);
 }
 
 body {
-    font-family:monoid;
     background-color: white;
 }
 
@@ -42,7 +40,7 @@ li a {
 }
 
 #current {
-    background-color: #ffffff
+    background-color: #e5e5e5
 }
 
 ul li {
