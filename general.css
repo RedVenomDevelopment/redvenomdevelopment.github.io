@@ -1,13 +1,13 @@
 @font-face {
     src: url('Bradley Gratis.ttf');
     font-family: "BradleyGratis";
-    font-size: 18px;
+    font-size: 32px;
 }
 
 body {
     font-family: "BradleyGratis";
     background-color: white;
-    font-size: 18px;
+    font-size: 32px;
 }
 
 ul {
