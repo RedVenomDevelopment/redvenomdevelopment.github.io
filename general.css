@@ -1,10 +1,10 @@
 @font-face {
-    src: url(Bradley Gratis.ttf);
-    font-family: "Bradley Gratis";
+    src: url('Bradley Gratis.ttf');
+    font-family: "BradleyGratis";
 }
 
 body {
-    font-family: "Bradley Gratis";
+    font-family: "BradleyGratis";
     background-color: white;
 }
 
@@ -42,7 +42,7 @@ li a {
 }
 
 #current {
-    background-color: #e5e5e5
+    background-color: #131313
 }
 
 ul li {
